@@ -39,4 +39,4 @@ Aplicação simples para manipulação de itens e contadores.
 - 💼 LinkedIn: https://www.linkedin.com/in/reidnerjr/
 
 <br/>
-<p align="center">Obrigado por visitar! 🤍</p>
+<p align="center">Obrigado por visitar!</p>
