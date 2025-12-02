@@ -29,9 +29,9 @@ Atualmente estudando React, TypeScript e padrões modernos de desenvolvimento.
 Interface feita em React para explorar hooks, componentes e lógica de estado.  
 🔗 https://github.com/reidnerjr/desafio-react
 
-### **counter-app**
+### **Rewards-app**
 Aplicação simples para manipulação de itens e contadores.  
-🔗 https://github.com/reidnerjr/counter-app
+🔗 https://github.com/reidnerjr/simer-saas-app
 
 ---
 
