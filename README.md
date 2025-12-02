@@ -4,10 +4,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github.com/reidnerjr.png" width="140" style="border-radius: 50%;" />
-</p>
-
 <br/>
 
 ## 👋 Sobre mim
