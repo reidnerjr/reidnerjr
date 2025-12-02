@@ -35,10 +35,10 @@ Aplicação simples para manipulação de itens e contadores.
 
 ---
 
-## 📊 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=reidnerjr&show_icons=false&hide_title=true&hide_rank=true&hide_border=true&text_color=cccccc&icon_color=999999&bg_color=00000000" height="130" />
-</p>
+## 📊 Atividade no GitHub
+- 799 contribuições no último ano  
+- Código aberto em 16 repositórios públicos  
+- Foco atual: React, TypeScript e padrões de UI  
 
 ---
 
