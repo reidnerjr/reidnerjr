@@ -1,11 +1,3 @@
-<h1 align="center">reidner junior</h1>
-
-<p align="center">Frontend Developer • HTML • CSS • JavaScript • React • TypeScript</p>
-
-<br/>
-
-<br/>
-
 ## 👋 Sobre mim
 Sou desenvolvedor Frontend focado em criar interfaces simples, funcionais e bem estruturadas.  
 Atualmente estudando React, TypeScript e padrões modernos de desenvolvimento.
